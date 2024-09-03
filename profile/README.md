@@ -1,12 +1,4 @@
-<center>
-    
-</center>
-
-
-<p align="center"><img src="http://sr.ksria.cn/logo%20bigger.png" /></p>
-
-<p align="center"><img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" alt="basic" width="350" height="350"></p>
-
+<p align="center"><img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" alt="basic" width="300" height="300"></p>
 
 
 # 🚀 欢迎来到 M5Stack 开源社区！
