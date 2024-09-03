@@ -1,4 +1,4 @@
-<img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" />
+<img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" alt="basic" width="350" height="350">
 
 # 🚀 欢迎来到 M5Stack 开源社区！
 
