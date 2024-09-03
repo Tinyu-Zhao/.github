@@ -1,4 +1,7 @@
-<img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" alt="basic" width="350" height="350">
+<div style="text-align: center;">
+    <img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" alt="basic" width="350" height="350">
+</div>
+
 
 # 🚀 欢迎来到 M5Stack 开源社区！
 
@@ -29,7 +32,10 @@
 - 对于商业合作或定制服务，请直接访问我们的官方网站了解更多信息。
 
 
-<img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" />
+<div style="text-align: center;">
+    <img src="https://static-cdn.m5stack.com/resource/public/assets/m5logo2022.svg" alt="basic" width="350" height="350">
+</div>
+
 
 # 🚀 Welcome to the M5Stack Open Source Community!
 
